@@ -1,0 +1,44 @@
+URxvt*font: xft:DejaVuSansMono:size=14
+URxvt*borderLess: false
+URxvt*externalBorder: 0
+URxvt*internalBorder: 4
+
+URxvt*scrollBar: false
+URxvt*saveLines: 5000
+
+! special
+*.foreground: 	#666699
+*.background: 	#000000
+*.cursorColor: 	#E61CB8
+
+! black
+*.color0:	#333366
+*.color8:	#333399
+
+! red
+*.color1:	#6666cc
+*.color9:	#9999ff
+
+! green
+*.color2:	#0099cc
+*.color10:	#00ccff
+
+! yellow
+*.color3:	#3366cc
+*.color11:	#6699ff
+
+! blue
+*.color4:	#006699
+*.color12:	#0099cc
+
+! magenta
+*.color5:	#0066ff
+*.color13:	#0099ff
+
+! cyan
+*.color6:	#669999
+*.color14:	#66cccc
+
+! white
+*.color7:	#99cccc
+*.color15:	#ccffff
