@@ -7,38 +7,38 @@ URxvt*scrollBar: false
 URxvt*saveLines: 5000
 
 ! special
-*.foreground: 	#666699
-*.background: 	#000000
-*.cursorColor: 	#E61CB8
+*.foreground:   #d0d0d0
+*.background:   #3a3a3a
+*.cursorColor:  #00d7ff
 
 ! black
-*.color0:	#333366
-*.color8:	#333399
-
+*.color0:       #4e4e4e
+*.color8:       #626262
+ 
 ! red
-*.color1:	#6666cc
-*.color9:	#9999ff
-
+*.color1:       #d68787
+*.color9:       #d75f87
+ 
 ! green
-*.color2:	#0099cc
-*.color10:	#00ccff
-
+*.color2:       #5f865f
+*.color10:      #87af87
+ 
 ! yellow
-*.color3:	#3366cc
-*.color11:	#6699ff
-
+*.color3:       #d8af5f
+*.color11:      #ffd787
+ 
 ! blue
-*.color4:	#006699
-*.color12:	#0099cc
-
+*.color4:       #85add4
+*.color12:      #add4fb
+ 
 ! magenta
-*.color5:	#0066ff
-*.color13:	#0099ff
+*.color5:       #d7afaf
+*.color13:      #ffafaf
 
 ! cyan
-*.color6:	#669999
-*.color14:	#66cccc
-
+*.color6:       #87afaf
+*.color14:      #87d7d7
+ 
 ! white
-*.color7:	#99cccc
-*.color15:	#ccffff
+*.color7:       #e8e8e8
+*.color15:      #e4e4e4
