@@ -245,7 +245,7 @@ client.background          #000000
 bar {
     status_command i3status --config /home/ops/.config/i3/i3status.conf 
     position bottom
-    font pango:DejaVu Mono Sans 16
+    font pango:Inconsolata Nerd Font Mono Sans 16
 
     colors {
         background  $background 
