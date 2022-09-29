@@ -20,3 +20,15 @@ export SAVEHIST=10000
 
 # set a GTK theme
 export GTK_THEME=Adwaita:dark
+
+# set the location of vim config
+export MYVIMRC="$DOTFILES/nvim/init.vim"
+
+# set clang as c compiler 
+export CC=/usr/bin/clang
+
+# set gcc as c++ compiler
+export CXX=/usr/bin/gcc
+
+# add go to path
+export PATH=$PATH:/usr/local/go/bin

@@ -36,7 +36,7 @@ URxvt*saveLines: 5000
 *.color13:      #ffafaf
 
 ! cyan
-*.color6:       #87afaf
+*.color6:       #00d7af
 *.color14:      #87d7d7
 
 ! white
