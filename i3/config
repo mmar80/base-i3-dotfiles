@@ -231,10 +231,10 @@ set_from_resource $white2 color15           #
 #                           border      backg       text        indicator   child_border
 
 client.focused             $black2     $black2     $foreground  $blue1      #808080
-client.focused_tab_title   $black1     $white2     $foreground  $yellow1    #808080
+client.focused_tab_title   $black1     $white2     $foreground  $white2     #808080
 client.focused_inactive    $white2     $white2     $white1      $magenta1   #808080
 client.unfocused           $black1     $background $foreground  $green1     #808080
-client.urgent              $yellow1    $yellow1    $white2      $blue2      #808080
+client.urgent              $magenta1   $magenta1   $white2      $blue2      #808080
 client.placeholder         $green1     $green1     $white1      $black2     #808080
 
 client.background          #000000
