@@ -83,3 +83,13 @@ Reboot and, if successful, you will see the i3 status bar. Use MENU+ENTER to inv
 ## How does this work?
 
 Xinit invokes i3 in the .zshrc file, which along with .zshenv, are sourced on boot and new shell creation in Zsh. 
+
+## Common problems
+
+- Errors when launching Neovim
+
+Make sure the Lua dev headers are installed. Run :PlugInstall to install the lsp-config plugin.
+
+- Error in status bar 
+
+Make sure `i3status` is installed.
