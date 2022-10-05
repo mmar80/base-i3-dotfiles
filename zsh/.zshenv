@@ -32,3 +32,13 @@ export CXX=/usr/bin/gcc
 
 # add go to path
 export PATH=$PATH:/usr/local/go/bin
+
+# change name of wifi dongle interface
+export wlan0="wlx7c10c961acdc"
+
+# make home network easier to find
+export ssid="superbe"
+. "$HOME/.cargo/env"
+
+# add go bin to path
+export PATH=$PATH:/usr/local/go/bin

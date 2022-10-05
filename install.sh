@@ -59,3 +59,10 @@ cp -rf "$DOTFILES/fonts" "$XDG_DATA_HOME"
 
 mkdir -p "$XDG_CONFIG_HOME/tmux"
 ln -sf "$DOTFILES/tmux/tmux.conf" "$XDG_CONFIG_HOME/tmux/tmux.conf"
+
+#############
+# alacritty #
+#############
+
+mkdir -p "$XDG_CONFIG_HOME/alacritty"
+ln -sf "$DOTFILES/alacritty/alacritty.yml" "$XDG_CONFIG_HOME/alacritty/alacritty.yml"
