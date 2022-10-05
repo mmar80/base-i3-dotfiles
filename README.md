@@ -98,3 +98,7 @@ Make sure `i3status` is installed.
 - What about Alacritty?
 
 Alacritty install is optional but if you're transitioning to Sway you'll need a terminal emulator that supports Wayland, which rxvt does not.
+
+- What is the color theme?
+
+Seoul256 by junegunn.
